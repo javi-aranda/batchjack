@@ -1,0 +1,2 @@
+# batchjack
+Blackjack in Batch.
